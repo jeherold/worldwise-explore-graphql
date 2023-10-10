@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Weymouth",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-06T16:28:00.659Z",
+      "notes": "Freshwater bay",
+      "position": {
+        "lat": "50.54179934084488",
+        "lng": "-2.4362182617187504"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-06T17:54:31.078Z",
+      "notes": "",
+      "position": {
+        "lat": "41.87774145109676",
+        "lng": "12.496948242187502"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Hot Springs",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-06T23:59:52.076Z",
+      "notes": "",
+      "position": {
+        "lat": "34.487647309293806",
+        "lng": "-93.01632433707316"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Winchester",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-07T22:06:16.587Z",
+      "notes": "",
+      "position": {
+        "lat": "38.037250523891544",
+        "lng": "-84.20238961562877"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2023-10-07T22:12:40.768Z",
+      "notes": "",
+      "position": {
+        "lat": "74.86784478537874",
+        "lng": "-38.683184207789886"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Azaila",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-09T20:48:27.982Z",
+      "notes": "",
+      "position": {
+        "lat": "41.34323418630691",
+        "lng": "-0.5712845471856177"
+      },
+      "id": 98443213
+    }
+  ]
+}
